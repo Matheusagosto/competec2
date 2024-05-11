@@ -10,7 +10,7 @@ public class Exercicio2Gabarito {
         // nomeie as variáveis de acordo com o problema e com o que elas armazenam
         double precoLaranja = 5.5;
         double precoUva = 2.3;
-
+ 
         double soma = precoLaranja + precoUva;
         System.out.println(soma);
     }
